@@ -12,6 +12,8 @@ import Download from "./Download";
 import Editor from "./Editor";
 import { AppContext } from "./AppContext";
 
+
+
 const withFullscreenHook = (Component) => {
   return (props) => {
     const handle = useFullScreenHandle();
