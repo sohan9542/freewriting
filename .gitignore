@@ -6,7 +6,7 @@ mdwa/node_modules
 /coverage
 
 # production
-/build
+
 mdwa/build
 
 # misc
