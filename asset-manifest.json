@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/freewriting/static/css/main.0c53b00c.css",
+    "main.js": "/freewriting/static/js/main.0545d9bf.js",
+    "static/media/mdwa.eot?62057485": "/freewriting/static/media/mdwa.c7354edfb2a1df5f7771.eot",
+    "static/media/mdwa.ttf?62057485": "/freewriting/static/media/mdwa.12c44281e6b543b05dac.ttf",
+    "static/media/mdwa.svg?62057485": "/freewriting/static/media/mdwa.f458b57b0c87d7bea018.svg",
+    "static/media/mdwa.woff?62057485": "/freewriting/static/media/mdwa.7efd4b4709f5994c0c26.woff",
+    "static/media/mdwa.woff2?62057485": "/freewriting/static/media/mdwa.9e61715db2c19303bd63.woff2",
+    "index.html": "/freewriting/index.html",
+    "main.0c53b00c.css.map": "/freewriting/static/css/main.0c53b00c.css.map",
+    "main.0545d9bf.js.map": "/freewriting/static/js/main.0545d9bf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0c53b00c.css",
+    "static/js/main.0545d9bf.js"
+  ]
+}
