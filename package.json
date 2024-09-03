@@ -1,7 +1,6 @@
 {
   "name": "mdwa",
   "version": "2.6.0",
-  "homepage": "https://sohan9542.github.io/freewriting",
   "private": true,
   "dependencies": {
     "autoprefixer": "10.4.11",
